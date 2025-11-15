@@ -14,7 +14,7 @@
 This is a **full-stack CRUD template** using:
 
 - **Backend:** Node.js + Express + MySQL (`mysql2` package)  
-- **Frontend:** React + Bootstrap 5  
+- **Frontend:** React + Bootstrap 5   
 - **Features:**  
   - Create, Read, Update, Delete products  
   - RESTful API with validation & error handling  
